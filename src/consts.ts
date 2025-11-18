@@ -6,7 +6,7 @@ export const SITE: Site = {
 };
 
 export const HOME: Metadata = {
-  TITLE: "Home",
+  TITLE: "Altinok D.",
   DESCRIPTION: "Personal blog of Altinok D.",
 };
 
